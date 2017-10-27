@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MakeTabs</string>
+    <string name="app_name">클로꿀팁</string>
+
+    <string name="title1">아레나</string>
+    <string name="title2">카드덱</string>
+    <string name="title3">내정보</string>
+    <string name="title4">상자</string>
+    <string name="title5">레벨</string>
 </resources>
